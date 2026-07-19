@@ -15,7 +15,7 @@ We present an enhanced DenseNet-121 architecture that integrates dilated convolu
 
 ## Dataset
 
-We trained and evaluated our model using a comprehensive [Kaggle brain tumor dataset]([https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset](https://www.kaggle.com/dsv/2645886)) comprising 7,023 MRI images classified into four categories:
+We trained and evaluated our model using a comprehensive [Kaggle brain tumor dataset](https://www.kaggle.com/dsv/2645886) comprising 7,023 MRI images classified into four categories:
 - Glioma
 - Meningioma
 - Pituitary tumor
