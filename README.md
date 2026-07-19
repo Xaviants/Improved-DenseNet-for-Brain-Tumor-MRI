@@ -62,24 +62,6 @@ The Dilated SE-DenseNet demonstrates superior learning ability, outperforming se
 
 <img width="1007" height="521" alt="Results" src="https://github.com/user-attachments/assets/23551434-c966-4d10-8dec-3a3b34973569" />
 
-## Citation
-
-If you find this work useful, please cite our paper:
-
-```bibtex
-@article{mao2025dilated,
-  title={Dilated SE-DenseNet for brain tumor MRI classification},
-  author={Mao, Yuannong and Kim, Jiwook and Podina, Lena and Kohandel, Mohammad},
-  journal={Scientific Reports},
-  volume={15},
-  number={1},
-  pages={3596},
-  year={2025},
-  publisher={Nature Publishing Group},
-  doi={10.1038/s41598-025-86752-y}
-}
-```
-
 ## Authors
 
 This work was conducted at the University of Waterloo (2024):
